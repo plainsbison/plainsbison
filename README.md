@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm plainsbison! 
 
 Welcome to my GitHub profile! I specialize in Java, web development (HTML/CSS, React), and a bit of C#. Here's a bit about what I'm currently working on:
 
